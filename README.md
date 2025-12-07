@@ -1,8 +1,6 @@
 # NewsReader
 
-# Space News Reader
-
-A lightweight SwiftUI app for browsing the latest spaceflight news using the Spaceflight News API v4.
+A lightweight SwiftUI app for browsing the latest spaceflight news using the Spaceflight News API.
 
 - Platform: iOS (SwiftUI)
 - Language: Swift
